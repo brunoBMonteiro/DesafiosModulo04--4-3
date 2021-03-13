@@ -45,6 +45,14 @@ Os seguintes campos são necessários:
 
 Crie um arquivo `teachers.js` na raiz do seu projeto e faça a validação de todos os campos utilizando `keys` e o constructor `Object`. Além disso, utilize o método `writeFile` da lib `fs` para gerar um arquivo json que irá conter um array de todos os professores cadastrados. Ao final desses dois processos (validação e salvamento), faça o redirecionamento para a página de listagem de professores.
 
+## Para abrir o app
+
+- Após clonar o app
+- vá ate o arquivo
+- Abra com "code ."
+- Instale os pacotes com "npm install"
+- Inicie com "npm start"
+
 ### Estilização
 
 Você tem liberdade para escolher a estilização que preferir para esse desafio.
