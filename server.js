@@ -5,6 +5,7 @@ const routes = require('./routes')
 
 const server = express()
 
+// responsavel pelo req.body
 server.use(express.urlencoded({ extended: true }))
 // arrumando a pasta public
 server.use(express.static('public'))
